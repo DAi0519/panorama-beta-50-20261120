@@ -1,0 +1,1414 @@
+{
+  "batchId": "BETA-ee2eaa44dcd44f4f8b2960683cfb50f3",
+  "jobId": "beta-e318e823-5531-4cb6-a422-f86e3b11d997",
+  "featureMode": "panoramaEnhancement",
+  "sampleSetId": "SET-57B42024-159",
+  "testTime": "2026-11-20 10:54:32",
+  "items": [
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-001",
+      "sampleId": "PANO-SU-ONLINE-20261119-001",
+      "label": "01_SU_黄灰卧室_cc2ec48081225e0baaed66104e7fdd45.jpg · 默认 · 保留原光影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-001-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": null
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-001",
+      "sampleId": "PANO-SU-ONLINE-20261119-001",
+      "label": "01_SU_黄灰卧室_cc2ec48081225e0baaed66104e7fdd45.jpg · 斜阳长影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-002-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvYfvTHw",
+          "version": 7,
+          "sha256": "de9ee7127c8543d00bfba35698d26c8f5b51eac717b9fed24dcb0c0567f4822c"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-001",
+      "sampleId": "PANO-SU-ONLINE-20261119-001",
+      "label": "01_SU_黄灰卧室_cc2ec48081225e0baaed66104e7fdd45.jpg · 晴窗树影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-003-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvgxEDmY",
+          "version": 7,
+          "sha256": "e49537d94cd30a7ba42726ed7cb3cb212a77e286b307cc6a6aea2fe7970e3da4"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-001",
+      "sampleId": "PANO-SU-ONLINE-20261119-001",
+      "label": "01_SU_黄灰卧室_cc2ec48081225e0baaed66104e7fdd45.jpg · 金色夕照",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-004-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvoDzR3C",
+          "version": 5,
+          "sha256": "8dd570e8db33df460e3cd93ac28d0da67534d2cc824509251de909b728bb605e"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-001",
+      "sampleId": "PANO-SU-ONLINE-20261119-001",
+      "label": "01_SU_黄灰卧室_cc2ec48081225e0baaed66104e7fdd45.jpg · 日光暖灯",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-005-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvvVG7wN",
+          "version": 7,
+          "sha256": "1584acb88fe09743b97e53937323908d683110dad515ff0b82c1b1ac3134e60c"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-001",
+      "sampleId": "PANO-SU-ONLINE-20261119-001",
+      "label": "01_SU_黄灰卧室_cc2ec48081225e0baaed66104e7fdd45.jpg · 电影柔光",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-006-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNw3XFVuV",
+          "version": 9,
+          "sha256": "ec0380eed1ffd4df97eef2fcab2da745f2f66655103b5906e4d5e988444e8b95"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-001",
+      "sampleId": "PANO-SU-ONLINE-20261119-001",
+      "label": "01_SU_黄灰卧室_cc2ec48081225e0baaed66104e7fdd45.jpg · 冷调日光",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-007-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwAk5HOM",
+          "version": 7,
+          "sha256": "5295a559f299dd9a45f7b51845376bf5fcf272c4bb3a92cc679bcf1ddb4b4303"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-001",
+      "sampleId": "PANO-SU-ONLINE-20261119-001",
+      "label": "01_SU_黄灰卧室_cc2ec48081225e0baaed66104e7fdd45.jpg · 胶片",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-008-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwIEG553",
+          "version": 7,
+          "sha256": "13df23db45bcf83b8b514623e6042157ef806a836c43c998b798f03f1bbb186a"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-001",
+      "sampleId": "PANO-SU-ONLINE-20261119-001",
+      "label": "01_SU_黄灰卧室_cc2ec48081225e0baaed66104e7fdd45.jpg · 青橙",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-009-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwPT9gby",
+          "version": 7,
+          "sha256": "e49530ff3996d8242cac2f0f64e0861c1720d75599d6a0e80f01ff713dc5c7c4"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-001",
+      "sampleId": "PANO-SU-ONLINE-20261119-001",
+      "label": "01_SU_黄灰卧室_cc2ec48081225e0baaed66104e7fdd45.jpg · 暖灯静夜",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-010-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwY4wRNS",
+          "version": 7,
+          "sha256": "c0496ab741e69692d5a17542e65584c1a2fafae3d601a2ae3bee8f30f3aac307"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-002",
+      "sampleId": "PANO-SU-ONLINE-20261119-002",
+      "label": "02_SU_深色客厅_24c6b6e0f6948763062fe1cf8c6be3eb.jpg · 默认 · 保留原光影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-011-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": null
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-002",
+      "sampleId": "PANO-SU-ONLINE-20261119-002",
+      "label": "02_SU_深色客厅_24c6b6e0f6948763062fe1cf8c6be3eb.jpg · 斜阳长影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-012-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvYfvTHw",
+          "version": 7,
+          "sha256": "de9ee7127c8543d00bfba35698d26c8f5b51eac717b9fed24dcb0c0567f4822c"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-002",
+      "sampleId": "PANO-SU-ONLINE-20261119-002",
+      "label": "02_SU_深色客厅_24c6b6e0f6948763062fe1cf8c6be3eb.jpg · 晴窗树影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-013-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvgxEDmY",
+          "version": 7,
+          "sha256": "e49537d94cd30a7ba42726ed7cb3cb212a77e286b307cc6a6aea2fe7970e3da4"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-002",
+      "sampleId": "PANO-SU-ONLINE-20261119-002",
+      "label": "02_SU_深色客厅_24c6b6e0f6948763062fe1cf8c6be3eb.jpg · 金色夕照",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-014-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvoDzR3C",
+          "version": 5,
+          "sha256": "8dd570e8db33df460e3cd93ac28d0da67534d2cc824509251de909b728bb605e"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-002",
+      "sampleId": "PANO-SU-ONLINE-20261119-002",
+      "label": "02_SU_深色客厅_24c6b6e0f6948763062fe1cf8c6be3eb.jpg · 日光暖灯",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-015-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvvVG7wN",
+          "version": 7,
+          "sha256": "1584acb88fe09743b97e53937323908d683110dad515ff0b82c1b1ac3134e60c"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-002",
+      "sampleId": "PANO-SU-ONLINE-20261119-002",
+      "label": "02_SU_深色客厅_24c6b6e0f6948763062fe1cf8c6be3eb.jpg · 电影柔光",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-016-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNw3XFVuV",
+          "version": 9,
+          "sha256": "ec0380eed1ffd4df97eef2fcab2da745f2f66655103b5906e4d5e988444e8b95"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-002",
+      "sampleId": "PANO-SU-ONLINE-20261119-002",
+      "label": "02_SU_深色客厅_24c6b6e0f6948763062fe1cf8c6be3eb.jpg · 冷调日光",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-017-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwAk5HOM",
+          "version": 7,
+          "sha256": "5295a559f299dd9a45f7b51845376bf5fcf272c4bb3a92cc679bcf1ddb4b4303"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-002",
+      "sampleId": "PANO-SU-ONLINE-20261119-002",
+      "label": "02_SU_深色客厅_24c6b6e0f6948763062fe1cf8c6be3eb.jpg · 胶片",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-018-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwIEG553",
+          "version": 7,
+          "sha256": "13df23db45bcf83b8b514623e6042157ef806a836c43c998b798f03f1bbb186a"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-002",
+      "sampleId": "PANO-SU-ONLINE-20261119-002",
+      "label": "02_SU_深色客厅_24c6b6e0f6948763062fe1cf8c6be3eb.jpg · 青橙",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-019-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwPT9gby",
+          "version": 7,
+          "sha256": "e49530ff3996d8242cac2f0f64e0861c1720d75599d6a0e80f01ff713dc5c7c4"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-002",
+      "sampleId": "PANO-SU-ONLINE-20261119-002",
+      "label": "02_SU_深色客厅_24c6b6e0f6948763062fe1cf8c6be3eb.jpg · 暖灯静夜",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-020-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwY4wRNS",
+          "version": 7,
+          "sha256": "c0496ab741e69692d5a17542e65584c1a2fafae3d601a2ae3bee8f30f3aac307"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-003",
+      "sampleId": "PANO-SU-ONLINE-20261119-003",
+      "label": "03_SU_白色客餐厅_3764cf82d8b3d97e762d69ed7abc6089.jpg · 默认 · 保留原光影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-021-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": null
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-003",
+      "sampleId": "PANO-SU-ONLINE-20261119-003",
+      "label": "03_SU_白色客餐厅_3764cf82d8b3d97e762d69ed7abc6089.jpg · 斜阳长影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-022-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvYfvTHw",
+          "version": 7,
+          "sha256": "de9ee7127c8543d00bfba35698d26c8f5b51eac717b9fed24dcb0c0567f4822c"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-003",
+      "sampleId": "PANO-SU-ONLINE-20261119-003",
+      "label": "03_SU_白色客餐厅_3764cf82d8b3d97e762d69ed7abc6089.jpg · 晴窗树影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-023-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvgxEDmY",
+          "version": 7,
+          "sha256": "e49537d94cd30a7ba42726ed7cb3cb212a77e286b307cc6a6aea2fe7970e3da4"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-003",
+      "sampleId": "PANO-SU-ONLINE-20261119-003",
+      "label": "03_SU_白色客餐厅_3764cf82d8b3d97e762d69ed7abc6089.jpg · 金色夕照",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-024-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvoDzR3C",
+          "version": 5,
+          "sha256": "8dd570e8db33df460e3cd93ac28d0da67534d2cc824509251de909b728bb605e"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-003",
+      "sampleId": "PANO-SU-ONLINE-20261119-003",
+      "label": "03_SU_白色客餐厅_3764cf82d8b3d97e762d69ed7abc6089.jpg · 日光暖灯",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-025-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvvVG7wN",
+          "version": 7,
+          "sha256": "1584acb88fe09743b97e53937323908d683110dad515ff0b82c1b1ac3134e60c"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-003",
+      "sampleId": "PANO-SU-ONLINE-20261119-003",
+      "label": "03_SU_白色客餐厅_3764cf82d8b3d97e762d69ed7abc6089.jpg · 电影柔光",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-026-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNw3XFVuV",
+          "version": 9,
+          "sha256": "ec0380eed1ffd4df97eef2fcab2da745f2f66655103b5906e4d5e988444e8b95"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-003",
+      "sampleId": "PANO-SU-ONLINE-20261119-003",
+      "label": "03_SU_白色客餐厅_3764cf82d8b3d97e762d69ed7abc6089.jpg · 冷调日光",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-027-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwAk5HOM",
+          "version": 7,
+          "sha256": "5295a559f299dd9a45f7b51845376bf5fcf272c4bb3a92cc679bcf1ddb4b4303"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-003",
+      "sampleId": "PANO-SU-ONLINE-20261119-003",
+      "label": "03_SU_白色客餐厅_3764cf82d8b3d97e762d69ed7abc6089.jpg · 胶片",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-028-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwIEG553",
+          "version": 7,
+          "sha256": "13df23db45bcf83b8b514623e6042157ef806a836c43c998b798f03f1bbb186a"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-003",
+      "sampleId": "PANO-SU-ONLINE-20261119-003",
+      "label": "03_SU_白色客餐厅_3764cf82d8b3d97e762d69ed7abc6089.jpg · 青橙",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-029-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwPT9gby",
+          "version": 7,
+          "sha256": "e49530ff3996d8242cac2f0f64e0861c1720d75599d6a0e80f01ff713dc5c7c4"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-003",
+      "sampleId": "PANO-SU-ONLINE-20261119-003",
+      "label": "03_SU_白色客餐厅_3764cf82d8b3d97e762d69ed7abc6089.jpg · 暖灯静夜",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-030-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwY4wRNS",
+          "version": 7,
+          "sha256": "c0496ab741e69692d5a17542e65584c1a2fafae3d601a2ae3bee8f30f3aac307"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-004",
+      "sampleId": "PANO-SU-ONLINE-20261119-004",
+      "label": "04_SU_白金厨房_a2c52f1e61533c90374995eab750ac0c.jpg · 默认 · 保留原光影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-031-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": null
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-004",
+      "sampleId": "PANO-SU-ONLINE-20261119-004",
+      "label": "04_SU_白金厨房_a2c52f1e61533c90374995eab750ac0c.jpg · 斜阳长影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-032-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvYfvTHw",
+          "version": 7,
+          "sha256": "de9ee7127c8543d00bfba35698d26c8f5b51eac717b9fed24dcb0c0567f4822c"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-004",
+      "sampleId": "PANO-SU-ONLINE-20261119-004",
+      "label": "04_SU_白金厨房_a2c52f1e61533c90374995eab750ac0c.jpg · 晴窗树影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-033-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvgxEDmY",
+          "version": 7,
+          "sha256": "e49537d94cd30a7ba42726ed7cb3cb212a77e286b307cc6a6aea2fe7970e3da4"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-004",
+      "sampleId": "PANO-SU-ONLINE-20261119-004",
+      "label": "04_SU_白金厨房_a2c52f1e61533c90374995eab750ac0c.jpg · 金色夕照",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-034-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvoDzR3C",
+          "version": 5,
+          "sha256": "8dd570e8db33df460e3cd93ac28d0da67534d2cc824509251de909b728bb605e"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-004",
+      "sampleId": "PANO-SU-ONLINE-20261119-004",
+      "label": "04_SU_白金厨房_a2c52f1e61533c90374995eab750ac0c.jpg · 日光暖灯",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-035-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvvVG7wN",
+          "version": 7,
+          "sha256": "1584acb88fe09743b97e53937323908d683110dad515ff0b82c1b1ac3134e60c"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-004",
+      "sampleId": "PANO-SU-ONLINE-20261119-004",
+      "label": "04_SU_白金厨房_a2c52f1e61533c90374995eab750ac0c.jpg · 电影柔光",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-036-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNw3XFVuV",
+          "version": 9,
+          "sha256": "ec0380eed1ffd4df97eef2fcab2da745f2f66655103b5906e4d5e988444e8b95"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-004",
+      "sampleId": "PANO-SU-ONLINE-20261119-004",
+      "label": "04_SU_白金厨房_a2c52f1e61533c90374995eab750ac0c.jpg · 冷调日光",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-037-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwAk5HOM",
+          "version": 7,
+          "sha256": "5295a559f299dd9a45f7b51845376bf5fcf272c4bb3a92cc679bcf1ddb4b4303"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-004",
+      "sampleId": "PANO-SU-ONLINE-20261119-004",
+      "label": "04_SU_白金厨房_a2c52f1e61533c90374995eab750ac0c.jpg · 胶片",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-038-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwIEG553",
+          "version": 7,
+          "sha256": "13df23db45bcf83b8b514623e6042157ef806a836c43c998b798f03f1bbb186a"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-004",
+      "sampleId": "PANO-SU-ONLINE-20261119-004",
+      "label": "04_SU_白金厨房_a2c52f1e61533c90374995eab750ac0c.jpg · 青橙",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-039-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwPT9gby",
+          "version": 7,
+          "sha256": "e49530ff3996d8242cac2f0f64e0861c1720d75599d6a0e80f01ff713dc5c7c4"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-004",
+      "sampleId": "PANO-SU-ONLINE-20261119-004",
+      "label": "04_SU_白金厨房_a2c52f1e61533c90374995eab750ac0c.jpg · 暖灯静夜",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-040-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwY4wRNS",
+          "version": 7,
+          "sha256": "c0496ab741e69692d5a17542e65584c1a2fafae3d601a2ae3bee8f30f3aac307"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-005",
+      "sampleId": "PANO-SU-ONLINE-20261119-005",
+      "label": "05_渲染_窗边卧室_L3D747S41ENDO7SVTFYUWL56YLUFX7OEPRY8_post.jpg · 默认 · 保留原光影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-041-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": null
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-005",
+      "sampleId": "PANO-SU-ONLINE-20261119-005",
+      "label": "05_渲染_窗边卧室_L3D747S41ENDO7SVTFYUWL56YLUFX7OEPRY8_post.jpg · 斜阳长影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-042-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvYfvTHw",
+          "version": 7,
+          "sha256": "de9ee7127c8543d00bfba35698d26c8f5b51eac717b9fed24dcb0c0567f4822c"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-005",
+      "sampleId": "PANO-SU-ONLINE-20261119-005",
+      "label": "05_渲染_窗边卧室_L3D747S41ENDO7SVTFYUWL56YLUFX7OEPRY8_post.jpg · 晴窗树影",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-043-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvgxEDmY",
+          "version": 7,
+          "sha256": "e49537d94cd30a7ba42726ed7cb3cb212a77e286b307cc6a6aea2fe7970e3da4"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-005",
+      "sampleId": "PANO-SU-ONLINE-20261119-005",
+      "label": "05_渲染_窗边卧室_L3D747S41ENDO7SVTFYUWL56YLUFX7OEPRY8_post.jpg · 金色夕照",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-044-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvoDzR3C",
+          "version": 5,
+          "sha256": "8dd570e8db33df460e3cd93ac28d0da67534d2cc824509251de909b728bb605e"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-005",
+      "sampleId": "PANO-SU-ONLINE-20261119-005",
+      "label": "05_渲染_窗边卧室_L3D747S41ENDO7SVTFYUWL56YLUFX7OEPRY8_post.jpg · 日光暖灯",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-045-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNvvVG7wN",
+          "version": 7,
+          "sha256": "1584acb88fe09743b97e53937323908d683110dad515ff0b82c1b1ac3134e60c"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-005",
+      "sampleId": "PANO-SU-ONLINE-20261119-005",
+      "label": "05_渲染_窗边卧室_L3D747S41ENDO7SVTFYUWL56YLUFX7OEPRY8_post.jpg · 电影柔光",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-046-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNw3XFVuV",
+          "version": 9,
+          "sha256": "ec0380eed1ffd4df97eef2fcab2da745f2f66655103b5906e4d5e988444e8b95"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-005",
+      "sampleId": "PANO-SU-ONLINE-20261119-005",
+      "label": "05_渲染_窗边卧室_L3D747S41ENDO7SVTFYUWL56YLUFX7OEPRY8_post.jpg · 冷调日光",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-047-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwAk5HOM",
+          "version": 7,
+          "sha256": "5295a559f299dd9a45f7b51845376bf5fcf272c4bb3a92cc679bcf1ddb4b4303"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-005",
+      "sampleId": "PANO-SU-ONLINE-20261119-005",
+      "label": "05_渲染_窗边卧室_L3D747S41ENDO7SVTFYUWL56YLUFX7OEPRY8_post.jpg · 胶片",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-048-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwIEG553",
+          "version": 7,
+          "sha256": "13df23db45bcf83b8b514623e6042157ef806a836c43c998b798f03f1bbb186a"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-005",
+      "sampleId": "PANO-SU-ONLINE-20261119-005",
+      "label": "05_渲染_窗边卧室_L3D747S41ENDO7SVTFYUWL56YLUFX7OEPRY8_post.jpg · 青橙",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-049-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwPT9gby",
+          "version": 7,
+          "sha256": "e49530ff3996d8242cac2f0f64e0861c1720d75599d6a0e80f01ff713dc5c7c4"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    },
+    {
+      "attempt": 1,
+      "caseId": "PANO-SU-ONLINE-20261119-005",
+      "sampleId": "PANO-SU-ONLINE-20261119-005",
+      "label": "05_渲染_窗边卧室_L3D747S41ENDO7SVTFYUWL56YLUFX7OEPRY8_post.jpg · 暖灯静夜",
+      "modelLabel": "Flux2 Klein",
+      "runId": "RUN-20261120105432-050-aiTextureEnhancement",
+      "input": {
+        "modelKey": "aiTextureEnhancement",
+        "featureMode": "panoramaEnhancement",
+        "outputFormat": "png",
+        "resolution": "original",
+        "ratio": "2:1",
+        "ratioMode": "original",
+        "negativePrompt": "",
+        "prompt": "",
+        "panoramaPromptVersion": 4,
+        "panoramaLighting": {
+          "presetId": "reczz28bNwY4wRNS",
+          "version": 7,
+          "sha256": "c0496ab741e69692d5a17542e65584c1a2fafae3d601a2ae3bee8f30f3aac307"
+        },
+        "panoramaLightingRule": {
+          "id": "reczz28blW2tiq4K",
+          "version": 4,
+          "sha256": "623c7224c2f6a61bc912c209c8d73034b4ab1623bc608183818223bce13db3ff"
+        }
+      }
+    }
+  ]
+}
